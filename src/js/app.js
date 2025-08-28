@@ -50,13 +50,13 @@ function render(variables = {}) {
           }">
             <li><a href="https://twitter.com/${
               variables.twitter != null ? variables.twitter : "4geeksacademy"
-            }><i class="fab fa-twitter"></i></a></li>            
+            }"><i class="fab fa-twitter"></i></a></li>            
             <li><a href="https://github.com/${
               variables.github != null ? variables.github : "4geeksacademy"
-            }><i class="fab fa-github"></i></a></li>
+            }"><i class="fab fa-github"></i></a></li>
             <li><a href="https://linkedin.com/school/${
               variables.linkedin != null ? variables.linkedin : "4geeksacademy"
-            }><i class="fab fa-linkedin"></i></a></li>
+            }"><i class="fab fa-linkedin"></i></a></li>
             <li><a href="https://instagram.com/${
               variables.instagram != null
                 ? variables.instagram
